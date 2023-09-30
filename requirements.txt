@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+graphene
+graphql
+starlette-graphql
+
